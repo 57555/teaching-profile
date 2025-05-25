@@ -25,6 +25,6 @@
 ## 📬 راه تماس
 Telegram ID: [@amirehp ](https://t.me/amirehp)
 
-website: https://amirehp.github.io/teaching-profile/
+Website: [teaching-profile](https://amirehp.github.io/teaching-profile/) 
 
 در صورتی که GitHub نیاز به اطلاعات بیشتر داشته باشد، می‌توانم مدارک و شواهد بیشتری از فعالیت آموزشی‌ام را ارائه دهم.

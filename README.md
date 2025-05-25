@@ -23,7 +23,7 @@
 - در صورت نیاز، مستندات جلسات و فایل‌های تمرینی را می‌توانم ارائه دهم.
 
 ## 📬 راه تماس
-Telegram ID: @amirehp 
+Telegram ID: [@amirehp ](https://t.me/amirehp)
 
 website: https://amirehp.github.io/teaching-profile/
 
